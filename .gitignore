@@ -19,3 +19,5 @@ selenium-debug.log
 *.sln
 /README.zh-CN.md
 /README.md
+
+/config/dev.env.js
