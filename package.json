@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "joi": "^14.3.1",
-        "koa": "2.0.0",
+        "koa": "2.15.4",
         "koa-bodyparser": "3.2.0",
         "koa-logger": "^3.2.1",
         "koa-router": "7.0.0",
